@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     
     margin-top: 5cm;
@@ -41,4 +42,49 @@ li {color: blue;
         text-align: justify;
         font-size: 18px;
     }
+=======
+body{
+    
+    margin-top: 5cm;
+    background: linear-gradient(45deg, yellow,orange,pink,purple);
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgreen;
+}
+/*nenhum texto em preto*/
+h1 {
+    color: red;
+    text-align:center;
+    background-color: yellow;
+    padding: 15px;
+    border: 10px;
+}
+h2 {
+    color:blue;
+    background-color: lime;
+
+}
+p {
+    color:blue
+    font-size: 18px;
+    
+}
+
+h3 {
+    color: yellow;
+    text-align: center;
+}
+ul {
+    color: purple;
+    text-align: center;
+    list-style: none;
+}
+li {color: blue;
+    margin: 5px;
+}
+    small {
+        color: chocolate;
+        text-align: justify;
+        font-size: 18px;
+    }
+>>>>>>> 5a80c6670033ff35292324e7872036f941ad528f
     
